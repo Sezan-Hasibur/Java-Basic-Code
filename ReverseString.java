@@ -1,14 +1,14 @@
-import java.util.scanner;
+import java.util.Scanner;
 public class ReverseString
 {
  public static void main(String args[])
  {
- scanner a=new scanner(system.in);
- string s=a.nextLine();
+ Scanner a=new Scanner(System.in);
+ String s=a.nextLine();
  int n=s.length();
  for(int i=(n-1);i.=0;i--)
 {
-system.out.print(s.charAt(i);
+System.out.print(s.charAt(i);
 }
  }
 }
