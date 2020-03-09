@@ -1,4 +1,7 @@
 public class Add{
 	public static void main(String args[]){
-		System.out.println("Hello World);
+	int a = 15;
+	int b = 20;
+		System.out.println(a + b);
 	}
+}
